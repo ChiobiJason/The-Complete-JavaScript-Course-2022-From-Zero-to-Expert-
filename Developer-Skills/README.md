@@ -2,7 +2,7 @@
 
 - Learn how to setup Vscode dev enviroment to be more effective and developer themed
 
-```
+```Js
 cl = console.log();
 ```
 
